@@ -29,16 +29,19 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
 <h3 align="center">Stuff I use:</h3>
 <p align="center">
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/ico/javascript.png" alt="JavaScript logo"></a>
-      <a href = "https://en.wikipedia.org/wiki/Batch_file"><img src ="https://images.all-free-download.com/images/graphiclarge/bat_file_37086.jpg" alt="Batchfile Logo" height= "65"></a>
+      <a href = "https://en.wikipedia.org/wiki/Batch_file"><img src ="https://images.all-free-download.com/images/graphiclarge/bat_file_37086.jpg" alt="Batchfile Logo" height= "63"></a>
       <a href="https://nodejs.org/en/about/"><img src="/ico/node-js.png" alt="Node.js logo"></a>
       <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/ico/csharp.png" alt="C# logo"></a>
-      <a href="https://visualstudio.microsoft.com/vs/"><img src="/ico/visual-stuido.png" alt="Visual Studio logo"></a>
-      <a href="https://code.visualstudio.com/"><img src="/ico/visual-studio-code.png" alt="VS Code logo"></a>
+      <a href="https://visualstudio.microsoft.com/vs/"><img src="/ico/vs.png" alt="Visual Studio logo"></a>
+      <a href="https://code.visualstudio.com/"><img src="/ico/vsc.png" alt="VS Code logo"></a>
       <a href="https://git-scm.com/about"><img src="/ico/git.png" alt="Git logo"></a>
       <a href="https://github.com/"><img src="/ico/github.png" alt="GitHub logo"></a>
       <a href="https://www.gitkraken.com/"><img src="/ico/gitkraken.png" alt="GitKraken logo"></a>
       <a href="https://stackoverflow.com/"><img src="/ico/stack-overflow.png" alt="StackOverflow logo"></a>
   </p>
-- 📈 Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonizdev&show_icons=true&locale=en&theme=dark" alt="lemonizdev" /></p>  
-  
+<h3 align = "center">  Stats: </h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonizdev&show_icons=true&locale=en&theme=dark" alt="lemonizdev" /> 
+<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" alt="metrics"/></p>
+
+
+
