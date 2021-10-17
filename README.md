@@ -10,23 +10,23 @@
 
 My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=882149819345420289&scope=bot&permissions=8), an effective Discord bot with all in one Moderation, Utility, image and fun commands!
 
-- 🌱 I’m currently learning ...
+- 💻 I’m currently learning ...
   - Javascript
   - Batchfile coding
   - Python
   - C#
   - CSS
 
-- 🤔 I want to learn ...
+- 🤓 I want to learn ...
   - TypeScript
   - C# Game Devving
   - Advanced Web Development
   
-- 📫 How to reach me: 
+- 📫 Talk to me: 
   - Add me on Discord (LemonizDev#2550) or [join my server](https://discord.com/invite/mEKqPsz5?utm_source=Discord%20Widget&utm_medium=Connect)
   - StackOverflow: [Lemon-Juice](https://stackoverflow.com/users/16787997/lemun-juice?tab=profile)
 
-<h3 align="center">Stuff I use:</h3>
+<h3 align="center">Languages, IDE's and tools</h3>
 <p align="center">
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/ico/javascript.png" alt="JavaScript logo"></a>
       <a href = "https://en.wikipedia.org/wiki/Batch_file"><img src ="https://images.all-free-download.com/images/graphiclarge/bat_file_37086.jpg" alt="Batchfile Logo" height= "63"></a>
