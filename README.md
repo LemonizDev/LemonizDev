@@ -4,7 +4,7 @@
 
 <p align = "center"> 
   <img src = "https://komarev.com/ghpvc/?username=LemonizDev" alt = "Profile Views">
- <a href="https://discord.com/invite/mEKqPsz5?utm_source=Discord%20Widget&utm_medium=Connect">
+ <a href="https://discord.gg/CAJWYQB">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
   </a></p>
 
