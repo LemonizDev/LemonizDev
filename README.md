@@ -8,7 +8,7 @@
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
   </a></p>
 
-My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=882149819345420289&scope=bot&permissions=8), an effective Discord bot with all in one Moderation, Utility, image and fun commands!
+My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=882149819345420289&scope=bot&permissions=8), an effective Discord bot with all in one Moderation, Utility, image, truth  or dare, music and fun commands!
 
 - 💻 I’m currently learning ...
   - Javascript
