@@ -40,8 +40,8 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
       <a href="https://stackoverflow.com/"><img src="/ico/stack-overflow.png" alt="StackOverflow logo"></a>
   </p>
 <h3 align = "center">  Stats: </h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonizdev&show_icons=true&locale=en&theme=dark" alt="lemonizdev" /> 
-  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonizdev&layout=compact&theme=dark" alt="lemonizdev">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonizdev&show_icons=true&locale=en&theme=dark&count_private=true" alt="lemonizdev" /> 
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonizdev&layout=compact&theme=dark&count_private=true" alt="lemonizdev">
   </p>
 <h3 align = "center"> Metrics: </h3>
 <p>&nbsp;<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" alt="metrics"/></p>
