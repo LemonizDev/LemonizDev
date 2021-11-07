@@ -14,7 +14,6 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
   - Javascript
   - Batchfile coding
   - Python
-  - C#
   - CSS
 
 - 🤓 I want to learn ...
