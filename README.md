@@ -43,7 +43,7 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
   <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonizdev&count_private=true&layout=compact&theme=tokyonight" alt="lemonizdev">
   </p>
 <h3 align = "center"> Metrics: </h3>
-<p>&nbsp;<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&lines=1&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata" alt="metrics"/></p>
+<p>&nbsp;<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&languages=1&introduction=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="metrics"/></p>
 
 
 
