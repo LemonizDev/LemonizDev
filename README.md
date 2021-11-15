@@ -20,6 +20,7 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
   - TypeScript
   - C# Game Devving
   - Advanced Web Development
+  - Advanced Git
   
 - 📫 Talk to me: 
   - Add me on Discord (LemonizDev#2550) or [join my server](https://discord.gg/CAJWYQB)
