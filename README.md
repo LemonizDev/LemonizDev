@@ -42,9 +42,11 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
 <h3 align = "center">  Stats: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonizdev&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="lemonizdev" /> 
   <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lemonizdev&count_private=true&layout=compact&theme=tokyonight" alt="lemonizdev">
+  <img align = 'center' src = 'https://github-readme-streak-stats.herokuapp.com/?user=LemonizDev&theme=tokyonight&count_private=true' alt = 'streak'>
   </p>
 <h3 align = "center"> Metrics: </h3>
-<p>&nbsp;<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&languages=1&introduction=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="metrics"/></p>
+<p>&nbsp;<img align = "center" src="https://metrics.lecoq.io/lemonizdev?template=classic&languages=1&introduction=1&achievements=1&isocalendar=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="metrics"/>
+<img align = 'center' src = 'https://activity-graph.herokuapp.com/graph?username=LemonizDev&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&count_private=true' alt = 'graph'> </p>
 
 
 
