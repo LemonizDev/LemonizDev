@@ -31,7 +31,6 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
       <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="/ico/javascript.png" alt="JavaScript logo"></a>
       <a href = "https://en.wikipedia.org/wiki/Batch_file"><img src ="https://images.all-free-download.com/images/graphiclarge/bat_file_37086.jpg" alt="Batchfile Logo" height= "63"></a>
       <a href="https://nodejs.org/en/about/"><img src="/ico/node-js.png" alt="Node.js logo"></a>
-      <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="/ico/csharp.png" alt="C# logo"></a>
       <a href="https://visualstudio.microsoft.com/vs/"><img src="/ico/vs.png" alt="Visual Studio logo"></a>
       <a href="https://code.visualstudio.com/"><img src="/ico/vsc.png" alt="VS Code logo"></a>
       <a href="https://git-scm.com/about"><img src="/ico/git.png" alt="Git logo"></a>
