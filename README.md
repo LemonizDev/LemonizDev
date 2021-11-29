@@ -23,7 +23,7 @@ My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=
   - Advanced Git
   
 - 📫 Talk to me: 
-  - Add me on Discord (LemonizDev#2550) or [join my server](https://discord.gg/CAJWYQB)
+  - Add me on Discord ([LemonizDev#2550](https://discord.com/users/737904690318278688)) or [join my server](https://discord.gg/CAJWYQB)
   - StackOverflow: [Lemon-Juice](https://stackoverflow.com/users/16787997/lemun-juice?tab=profile)
 
 <h3 align="center">Languages, IDE's and tools</h3>
