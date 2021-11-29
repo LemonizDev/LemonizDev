@@ -6,7 +6,11 @@
   <img src = "https://komarev.com/ghpvc/?username=LemonizDev" alt = "Profile Views">
  <a href="https://discord.gg/CAJWYQB">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
-  </a></p>
+  </a>
+  <a href = 'https://discord.com/users/737904690318278688'>
+    <img src ="https://img.shields.io/badge/-%20LemonizDev%232550-5865F2?style=shield&logo=discord&logoColor=white" alt = 'discord'>
+  </a>
+</p>
 
 My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=6442319863), an effective Discord bot with all in one Moderation, Utility, image, truth  or dare and fun commands!
 
