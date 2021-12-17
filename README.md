@@ -13,7 +13,6 @@
   <img src = 'https://dev.discordprofiles.me/badge/status/190916650143318016'>
   <img src = 'https://dev.discordprofiles.me/badge/vscode/737904690318278688'>
   <img src = 'https://dev.discordprofiles.me/badge/spotify/737904690318278688'>
-  <img src = 'https://dev.discordprofiles.me/badge/playing/190916650143318016'>
 </p>
 
 My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=6442319863), an effective Discord bot with all in one Moderation, Utility, image, truth  or dare and fun commands!
