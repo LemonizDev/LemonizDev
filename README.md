@@ -7,13 +7,9 @@
  <a href="https://discord.gg/CAJWYQB">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
   </a>
-  <a href = 'https://discord.com/users/737904690318278688'>
-    <img src ="https://img.shields.io/badge/-%20LemonizDev%232550-5865F2?style=shield&logo=discord&logoColor=white" alt = 'discord'>
-  </a>
-  <img src = 'https://dev.discordprofiles.me/badge/status/190916650143318016'>
-  <img src = 'https://dev.discordprofiles.me/badge/vscode/737904690318278688'>
-  <img src = 'https://dev.discordprofiles.me/badge/spotify/737904690318278688'>
 </p>
+
+![Discord](https://discord.c99.nl/widget/theme-1/737904690318278688.png)
 
 My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=8), an effective Discord bot with all in one Moderation, Utility, image, truth  or dare and fun commands!
 
