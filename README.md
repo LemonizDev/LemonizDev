@@ -3,6 +3,12 @@
 <h3 align = "center">  A Javascript developer and student </h3>
 
 <p align = "center"> 
+<a href = "https://www.instagram.com/delta_5621/">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  width = "22px" alt = "insta">
+</a>
+<a href = "https://discord.com/users/737904690318278688">
+  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width = " 22px" alt= "discord"
+</a>
   <img src = "https://komarev.com/ghpvc/?username=LemonizDev" alt = "Profile Views">
  <a href="https://discord.gg/CAJWYQB">
     <img src="https://discordapp.com/api/guilds/737222740305641472/widget.png?style=shield" alt="Discord Server">
