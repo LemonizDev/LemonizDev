@@ -3,7 +3,7 @@
 <h3 align = "center">  A Javascript developer and student </h3>
 
 <p align = "center"> 
-<a href = "https://www.instagram.com/delta_5621/">
+<a href = "https://www.instagram.com/Lem0n.guy420/">
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  width = "22px" alt = "insta">
 </a>
 <a href = "https://discord.com/users/737904690318278688">
