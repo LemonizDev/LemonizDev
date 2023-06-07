@@ -17,7 +17,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/737904690318278688.png)
 
-My current project is [`Citron`](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=8), an effective Discord bot with all in one Moderation, Utility, image, truth  or dare and fun commands!
+Check my discord bot [`Citron`](https://discord.com/oauth2/authorize?client_id=907821047070478347&scope=bot&permissions=8), an effective Discord tool with all in one Moderation, Utility, image, truth  or dare and fun commands!
 
 - 💻 I’m currently learning ...
   - Javascript
