@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0B1220,45:312E81,100:0891B2&text=LemonizDev&fontColor=F8FAFC&fontSize=64&fontAlignY=40&desc=AI%20systems%20%2F%20agents%20%2F%20automation&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="LemonizDev — AI systems, agents, automation"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=205&color=0:0B1220,45:312E81,100:0891B2&text=LemonizDev&fontColor=F8FAFC&fontSize=62&fontAlignY=40&desc=AI%20systems%20%C2%B7%20agents%20%C2%B7%20developer%20tools&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="LemonizDev — AI systems, agents, and developer tools"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=850&lines=Exploring+AI+agents+%26+tool+orchestration;Designing+persistent+AI+systems;Model+providers%2C+context+%26+execution;Turning+code+changes+into+tested+behavior;JavaScript+%2F+Node.js+%E2%80%94+part+of+the+toolbox" alt="Areas of focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=AI+agents+%26+tool+orchestration;Reliable+execution%2C+context+%26+integrations;Persistent+personal+AI+systems;Investigate+%E2%86%92+implement+%E2%86%92+test;JavaScript+%2F+Node.js+as+part+of+the+toolbox" alt="Current technical focus"/>
 
 <br/><br/>
 
-<a href="https://github.com/LemonizDev">GitHub</a>
+<a href="https://github.com/LemonizDev">Repositories</a>
 &nbsp;·&nbsp;
 <a href="https://discord.com/users/737904690318278688">Discord</a>
 
@@ -20,132 +20,74 @@
 
 ---
 
-## Beyond the demo.
+I'm a computer science student moving from application development into **AI-enabled software, agent workflows, and systems integration**. I've built Discord applications and Windows utilities; now I'm working on the harder questions around how models, tools, data, and execution environments fit together—and how to make the resulting systems dependable.
 
-I'm a computer science student interested in building software that connects models, tools, data, and real execution environments into systems that are actually useful.
+## Current work
 
-My development journey has gone through Discord bots, automation, application integrations, and Windows tooling. My current focus is much broader: understanding how modern AI systems work under the hood, how to build around them, and how to make those systems more reliable.
+### Dhan AI Trader · Private · In development
+**2026 · Current work; project start date not verified**
 
-I'm particularly interested in the engineering *around* AI: tool orchestration, model access, context, APIs, execution environments, architecture, and the infrastructure required to keep things running.
+A Telegram-first assistant for Indian-market research and portfolio-aware workflows, intended to support intraday and MTF use cases (not options trading).
 
-## What I'm working towards
+Recent work has focused on making portfolio data more explicit and consistent: classifying holdings, positions, and mutual funds in the agent payload, then aligning prompt rules and tests with that structure. This is private development, not a released trading product; I’m not publishing the source, account details, or financial data here.
 
-### 01 / AI agents & developer tooling
+### Citron AI · Architecture exploration
+**2026 · Concept and experiments; no completed public implementation to link**
 
-I'm exploring modern AI coding environments, including Cline and Kilo Code, and the problems behind making AI development workflows genuinely capable.
+A longer-term design for a personal AI system that can continue background work while I’m away, interact with my laptop when available, and use a hybrid of remote and local compute.
 
-My recent focus has included model and provider availability, agent modes, tool use, context handling, concurrency issues, and the trade-offs between different execution environments.
+The current priority is to validate small, useful components before committing to a server, operating-system layer, or larger architecture. The public CitronAI repository is currently empty, so it is **not presented as a shipped project**.
 
-**The goal:** understand the complete workflow—from the model and its tools to the code it changes and the tests that verify the result.
+### AI agent tooling · Ongoing technical investigation
+**2026 · Current learning and implementation work**
 
-### 02 / Citron AI — persistent personal AI
-
-An evolving architecture concept for a personal AI system that goes beyond a single chat session.
-
-The direction I'm exploring includes:
-
-- Persistent background tasks that can continue while I'm away.
-- Interaction with my laptop when it's available.
-- A hybrid approach to local and remote compute.
-- Modular components that can grow without prematurely locking into an operating system, server, or infrastructure setup.
-
-I'm deliberately validating smaller experiments before committing to the full architecture. The vision is broader than the current implementation.
-
-### 03 / Dhan AI Trader — private development
-
-An in-development, Telegram-first trading assistant for Indian markets, designed around portfolio awareness, market research, and practical trading workflows.
-
-The intended scope includes intraday and MTF workflows, with no options trading in scope.
-
-Recent engineering work includes improving portfolio classification, making asset-class information explicit across holdings, positions, and mutual funds, and aligning payloads, prompts, and tests.
-
-The focus is not just getting a model to generate an answer. It's building a more coherent system around the data it receives, the decisions it supports, and the behavior that needs to be tested.
-
-*This project is in private development; its implementation is not being presented as a finished public product.*
+Working with AI coding environments such as Cline and Kilo Code has led me to investigate model/provider routing, context limits, tool execution, concurrency, and local-versus-remote compute. I’m interested in the full path from a model response to a code change that can be inspected and tested—not just model names or benchmark claims.
 
 ---
 
-## How I learn and build
+## A substantial earlier project
 
-After a long break from regular development, I returned to it with a concentrated two-week sprint focused on understanding today's AI engineering landscape.
+### Citron Bot · Discord application
+**Active development documented in 2021; exact start and end dates not verified**
 
-Rather than stopping at model names or surface-level tutorials, I've been working through the actual moving pieces: coding agents, provider integrations, model access, context and tool workflows, concurrency behavior, local-versus-remote compute, and the architecture decisions connecting them.
+I built and maintained a feature-rich Discord bot with command and event handling, moderation and utility features, interactive commands, database-backed configuration, and integrations. The project's update history documents ongoing maintenance and feature fixes in late 2021.
 
-I'm still building depth. Two weeks of concentrated learning isn't the same as years of production experience—and I don't intend to present it that way.
+**Historical reach reported for the project: 160,000+ users across 1,500+ servers.** These are historical audience figures, not a claim about current active users or a standalone measure of code quality.
 
-What matters to me is the learning loop:
+The source repository is private, so there is no public code sample to inspect. The reach figures are based on project history previously reported by me; I could not independently verify the totals from accessible public repository evidence.
 
-**Investigate → trace the system → isolate the problem → implement → test → iterate.**
-
-I prefer understanding why a workflow behaves a certain way over memorizing which tool is currently popular. I want to turn that understanding into code that works, not just a collection of concepts I can talk about.
+---
 
 ## Technical background
 
-<div align="center">
+**Current direction:** AI agent workflows, model/provider integration, context and tool orchestration, API-driven automation, and system architecture.
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,cs,c,html,css,git,github,windows,vscode,mongodb,sqlite&theme=dark" alt="Technologies and tools I've worked with"/>
+**Existing foundation:** JavaScript and Node.js, with prior work in Python, C#, C, Windows batch scripting, web fundamentals, databases, and application integrations.
 
-</div>
+I don't treat every language or tool as an equal strength. My focus now is to turn broad experimentation into deeper, testable implementation.
 
-| Area | Experience |
-|---|---|
-| **AI engineering** | Exploring coding-agent workflows, model providers, tool orchestration, context, and execution environments |
-| **Application development** | JavaScript, Node.js, APIs, application integrations, and automation |
-| **Other languages** | Python, C#, C, and Windows batch scripting |
-| **Web fundamentals** | HTML and CSS |
-| **Data & development tools** | Git, GitHub, MongoDB, SQLite, VS Code, and Visual Studio |
-| **Systems interests** | Windows internals, local/remote compute, runtime environments, and system architecture |
-
-My experience varies across these areas. JavaScript and Node.js are part of my existing foundation, while AI engineering and systems architecture are major areas I'm actively developing.
+**Working loop:** Investigate → trace the system → isolate the problem → implement → test → iterate.
 
 ---
 
-## Earlier work
+## Earlier experiments
 
-<details>
-<summary><b>Citron Bot — Discord bot and community-scale software</b></summary>
+Older projects remain available in my repositories, but I keep them separate from current work so their age and scope are clear.
 
-One of my earlier substantial development projects was building and maintaining Citron Bot, a Discord bot with command handling, event-driven functionality, moderation and utility features, interactive commands, and integrations.
+- [Offline Insider Programme Enroller](https://github.com/LemonizDev/OfflineInsiderProgrammeEnroller) — Windows batch utility; repository commits document fixes on **30 September–1 October 2021**. That is a verified activity window, not proof of the project's full lifespan.
+- [Doodle Jump](https://github.com/LemonizDev/doodlejump) — Python/Pygame game experiment. **Development dates not verified.**
+- [Custom Discord RPC](https://github.com/LemonizDev/discord-custom-RPC) — an earlier Discord Rich Presence experiment. **Development dates not verified.**
 
-**Historical reach: 160,000+ users across 1,500+ servers.**
-
-This experience exposed me to the reality of building software for a large user base: functionality, maintenance, interactions, and the difference between making something work once and keeping a useful application running.
-
-The source code is private, so I haven't linked it as a public code sample.
-
-</details>
-
-<details>
-<summary><b>Earlier experiments</b></summary>
-
-I also explored smaller programming projects, including simple game logic and Windows utilities.
-
-These projects are part of my development history, but they aren't the focus of this profile. I'd rather keep the main page centred on the direction I'm pursuing now than inflate the project list with experiments that don't represent my current technical interests.
-
-</details>
+I have left out projects with unclear provenance, obvious third-party distributions, coursework I don't want to foreground, and repositories that currently provide no inspectable implementation.
 
 ---
 
-## GitHub activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LemonizDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" width="75%"/>
+<a href="https://github.com/LemonizDev?tab=repositories">Browse all repositories →</a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LemonizDev&bg_color=0D1117&color=C9D1D9&line=818CF8&point=67E8F9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Interested in how things work—and in building what comes next.**
-
-<br/>
-
-<a href="https://github.com/LemonizDev?tab=repositories">Explore my repositories →</a>
+<sub>Built in public where possible. Private work stays private; plans are labelled as plans.</sub>
 
 </div>
