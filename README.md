@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LemonizDev" alt="Profile views"/>
+<img src = "https://komarev.com/ghpvc/?username=LemonizDev" alt = "Profile Views">
 
 </div>
 
