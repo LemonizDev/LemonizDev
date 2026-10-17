@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=LemonizDev" alt="Profile views"/>
+![Profile views](https://komarev.com/ghpvc/?username=LemonizDev&label=PROFILE%20VIEWS&color=0891B2&style=flat-square)
 
 </div>
 
