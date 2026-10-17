@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/LemonizDev?tab=repositories">Repositories</a>
-&nbsp;·&nbsp;
-<a href="https://discord.com/users/737904690318278688">Discord</a>
+<a href="https://github.com/LemonizDev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+&nbsp;
+<a href="https://discord.com/users/737904690318278688"><img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Connect on Discord"/></a>
 
 <br/><br/>
 
